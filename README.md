@@ -1,4 +1,4 @@
-# Calculator-assignment
+# Basic Calculator-assignment
 
 A simple python GUI calculator that can answer to most of your calculation problems.
 
